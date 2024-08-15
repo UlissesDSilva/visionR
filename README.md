@@ -1,6 +1,6 @@
 # visionr README
 
-This is the README for your extension "visionr". After writing up a brief description, we recommend including the following sections.
+Essa extensão visa trazer ferramentas de acessibilidade para usuários com problemas de visões.
 
 ## Features
 
