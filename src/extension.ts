@@ -7,7 +7,7 @@ let work = vscode.workspace.getConfiguration('workbench');
 export function activate(context: vscode.ExtensionContext) {
 	statusBarItem = vscode.window.createStatusBarItem(
 		vscode.StatusBarAlignment.Left,
-		1000
+		1100
 	);
 
 	context.subscriptions.push(statusBarItem);
